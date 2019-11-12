@@ -43,7 +43,7 @@ public class Generator {
                 cfg = new Configuration();  
             }  
             cfg.setDirectoryForTemplateLoading(new File(  
-                    "src/main/java/com/lgs/freemarker"));
+                    "src/main/java/com/autocode/freemarker"));
            
         } catch (IOException e) {  
             e.printStackTrace();  
