@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42cb5319-5e7c-46e1-9dc7-4206a0ae8ac9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/autocode" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker" afterDir="true" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/Column.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/Column.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/DBConnectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/DBConnectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/controller.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/controller.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/dao.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/dao.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/entity.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/entity.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/service.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/service.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kbkj/freemarker/xml.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autocode/freemarker/xml.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/maps/read/bas" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/target/classes/maps" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources" beforeDir="true" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mywork\apache-maven-3.5.0-bin\.m2\repository" />
+        <option name="mavenHome" value="E:/javasoftware/apache-maven-3.0.5-bin/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="E:\javasoftware\apache-maven-3.0.5-bin\apache-maven-3.0.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="lyf-zt-repos" />
+      </list>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="lyf-3rd-party-mixed" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T0NvAga5DVfKErAcdaZCokq3Eo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lgs.freemarker.Test" />
+      <module name="mybaties-autocode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lgs.freemarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kbkj.freemarker.Test" />
+      <module name="mybaties-autocode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kbkj.freemarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ligon\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\gitworkspace\mybaties-autocode\mybaties-autocode" />
+          <option name="myCopyRoot" value="E:\gitworkspace\mybaties-autocode\mybaties-autocode" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\gitworkspace\mybaties-autocode\mybaties-autocode" />
+          <option name="myCopyRoot" value="E:\gitworkspace\mybaties-autocode\mybaties-autocode" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42cb5319-5e7c-46e1-9dc7-4206a0ae8ac9" name="Default" comment="" />
+      <created>1559721910314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559721910314</updated>
+      <workItem from="1559721918008" duration="3515000" />
+      <workItem from="1572593282614" duration="2843000" />
+      <workItem from="1573545242521" duration="1070000" />
+      <workItem from="1573546343468" duration="1177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mybaties-autocode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
